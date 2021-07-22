@@ -1,2 +1,4 @@
-# nsu-site
-nsu site with ecommerce functionality
+# Nikkei Student Union Website
+
+website with ecommerce functionality
+utilizing MERN Stack
