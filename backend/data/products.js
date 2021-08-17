@@ -1,6 +1,5 @@
 const products = [
   {
-    _id: '1',
     name: 'NSU Shizuka T-Shirt',
     image: '/images/shirt.PNG',
     description: 'Chapman NSU Shizuka T-Shirt',
@@ -12,7 +11,6 @@ const products = [
     numReviews: 10,
   },
   {
-    _id: '2',
     name: 'NSU Shizuka Long Sleeve Shirt',
     image: '/images/long.png',
     description: 'Chapman NSU Shizuka Long Sleeve Shirt',
@@ -24,7 +22,6 @@ const products = [
     numReviews: 8,
   },
   {
-    _id: '3',
     name: 'Shizuka Sweater',
     image: '/images/sweater.PNG',
     description: 'Sweater with Shizuka design',
@@ -36,7 +33,6 @@ const products = [
     numReviews: 17,
   },
   {
-    _id: '4',
     name: 'Shizuka Cap',
     image: '/images/hat.png',
     description: 'NSU Shizuka cap',
